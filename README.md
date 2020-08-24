@@ -12,6 +12,9 @@
 
 ### **KNearestNeighbors**
 - In pattern recognition, the k-nearest neighbors algorithm is a non-parametric method proposed by Thomas Cover used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space.
+- **Snapshot of the Result**
+  
+  ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1598253383/X_vwcu16.png)
 
 **Snapshot of Data Visualization**
 
