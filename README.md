@@ -7,9 +7,12 @@
 [**Exploratory Data Analysis**](https://github.com/ThinamXx/Tabular_Data..AustinAnimalCenter/blob/master/Austin%20Animal%20Center/Exploratory%20Data%20Analysis.ipynb)
   - In this Notebook, I have used various EDA such as Features Preprocessing, Data Visualization and Imputation as well. You can gain insights about various Exploratory Data Analysis steps and understanding from detail. I have carried out EDA in Austin Animal Center Dataset.
 
-[**Implementation of KNeighbors Classifier**](https://github.com/ThinamXx/Tabular_Data..AustinAnimalCenter/blob/master/KNeighbors%20Classifier.ipynb)
+[**Implementation of KNeighborsClassifier**](https://github.com/ThinamXx/Tabular_Data..AustinAnimalCenter/blob/master/KNeighbors%20Classifier.ipynb)
   - In this Notebook, you can get insights about the Implementation of KNeighbors Classifier in detail.
 
-### **KNearest Neighbors**
+### **KNearestNeighbors**
 - In pattern recognition, the k-nearest neighbors algorithm is a non-parametric method proposed by Thomas Cover used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space.
 
+**Snapshot of Data Visualization**
+
+![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1598253164/0112_mkqv3b.png)
